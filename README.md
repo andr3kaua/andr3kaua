@@ -5,9 +5,11 @@
 <br><br><br>
 
 
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="1000" height="300"/>
 
-![Ashmit Mehta](https://github.com/divyansh956/divyansh956/blob/main/img/github.png)
-<br><br><br>
+</div>
+
+<br> </br>
 
 
 <div align="center">
